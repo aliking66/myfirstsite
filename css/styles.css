@@ -1,0 +1,49 @@
+
+body{
+margin:0;
+
+
+	
+}
+.container{
+	position:relative;
+	height:600;
+	width:600;
+	margin:0 auto 0 auto;
+	background-color:grey;
+}
+.red{
+	width:200px;
+	height:200px;
+	background-color:red;
+	position: absolute;
+	
+
+}
+.green{
+		width:200px;
+		height:200px;
+		position:absolute;
+		left:200px;
+		
+		background-color:green;
+
+	    
+
+
+
+}
+.blue{
+	width:200px;
+	height:200px;
+	background-color:blue;
+	left:400px;
+	
+	position:absolute;
+
+}
+.second-img{
+	height: 400px;
+	width: 500px;
+}
+h1{padding:20px}
